@@ -11,6 +11,8 @@ Completed projects from dataquest.io
 
 [Predicting Car Prices](https://github.com/Corey-PT/dataquest/blob/master/Predicting%20Car%20Prices.ipynb)
 
+[Star Wars Survey](https://github.com/Corey-PT/dataquest/blob/master/Star%20Wars%20Survey.ipynb)
+
 [Visualizing Earnings Based On College Majors](https://github.com/Corey-PT/dataquest/blob/master/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
 
 [Visualizing Gender Gap in College Degrees](https://github.com/Corey-PT/dataquest/blob/master/Visualizing%20Gender%20Gap%20in%20College%20Degrees.ipynb)
