@@ -9,6 +9,8 @@ Completed projects from dataquest.io
 
 [Exploring Gun Deaths in The US](https://github.com/Corey-PT/dataquest/blob/master/Exploring%20Gun%20Deaths%20in%20The%20US.ipynb)
 
+[Investigating Airplane Accidents](https://github.com/Corey-PT/dataquest/tree/master/Investigating%20Airplane%20Accidents)
+
 [Predicting Car Prices](https://github.com/Corey-PT/dataquest/blob/master/Predicting%20Car%20Prices.ipynb)
 
 [Star Wars Survey](https://github.com/Corey-PT/dataquest/blob/master/Star%20Wars%20Survey.ipynb)
