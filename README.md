@@ -13,6 +13,8 @@ Completed projects from dataquest.io
 
 [Star Wars Survey](https://github.com/Corey-PT/dataquest/blob/master/Star%20Wars%20Survey.ipynb)
 
+[Transforming Data with Python](https://github.com/Corey-PT/dataquest/tree/master/Transforming%20Data%20with%20Python)
+
 [Visualizing Earnings Based On College Majors](https://github.com/Corey-PT/dataquest/blob/master/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
 
 [Visualizing Gender Gap in College Degrees](https://github.com/Corey-PT/dataquest/blob/master/Visualizing%20Gender%20Gap%20in%20College%20Degrees.ipynb)
